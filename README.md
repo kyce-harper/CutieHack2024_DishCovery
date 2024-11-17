@@ -1,4 +1,4 @@
-# CutieHack2024_DishCovery
+# CutieHack2024
 # ![DishCovery](dishCoveryLogo.png)
 
 ## DishCovery
