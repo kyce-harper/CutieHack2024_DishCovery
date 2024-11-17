@@ -1,4 +1,3 @@
-# CutieHack2024
 # ![DishCovery](dishCoveryLogo.png)
 
 ## DishCovery
@@ -73,6 +72,19 @@ DishCovery pulls data from a free meal API to provide users with:
 
 - **Language:** Swift  
 - **API:** [Free Meal API](https://www.themealdb.com/api.php)  
+
+---
+
+### 🌐 Find Us At
+
+#### Kyce Harper  
+- **LinkedIn:** [Kyce Harper](https://www.linkedin.com/in/kyce-harper-87a8212b2/)  
+- **YouTube:** [Kyce Harper](https://www.youtube.com/@Vapxr9)  
+- **Devpost:** [Kyce Harper](https://devpost.com/kyce-harper)  
+
+#### James Mace  
+- **LinkedIn:** [James Mace](http://www.linkedin.com/in/james-mace-4b76a7332)   
+- **Devpost:** [James Mace](https://devpost.com/macewjames)  
 
 ---
 
